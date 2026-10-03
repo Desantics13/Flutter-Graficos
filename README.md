@@ -1,5 +1,7 @@
 # Flutter-Graficos
 
+Actividad : Santiago Simancas
+
 Dashboard de gráficos en **Flutter Web** con 65 gráficos (40 básicos y 25 avanzados), hecho para el taller de Computación Móvil sobre gráficos en Flutter.
 
 ## Librerías usadas
